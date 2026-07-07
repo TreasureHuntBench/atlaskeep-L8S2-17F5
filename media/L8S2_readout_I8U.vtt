@@ -1,0 +1,14 @@
+WEBVTT
+
+NOTE kind=ledger readout
+NOTE run_ref=L8S2-7BQR
+
+00:00:00.000 --> 00:00:23.000
+series calibration
+
+00:00:23.000 --> 00:00:24.000
+repository=atlaskeep-L8S2-0X64
+document=ledgers/L8S2_02W_ledger.md
+
+00:00:24.000 --> 00:00:31.000
+archive readout complete
